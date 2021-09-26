@@ -1,16 +1,7 @@
 # Github-IO-introduction-SWEN-101
 
-#<!DOCTYPE html>
-#<head></head>
-
-#<style>
-
-#span {
-    #position: relative;
-    #left: 12px;
-#}
-
-#</style>
+<!DOCTYPE html>
+<head></head>
 
 <center>
 I am Ethan Abbate, I went to Kenmore West high school
